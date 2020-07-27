@@ -12,8 +12,8 @@ October 2019 - Present
 
 ### Siemens Managed Services – Data Analyst Intern
 July 2018 – May 2019
-* Using in-house systems identified errors which were preventing Siemens from invoicing customers successfully. Recovered over £20,000 of revenue within 8 weeks of joining.
-* Mentored employees within the business to detect and rectify invoicing errors.
+* Using in-house systems I identified errors which were preventing Siemens from invoicing customers successfully. I recovered over £20,000 of revenue within 8 weeks of joining.
+* I mentored employees within the business to detect and rectify invoicing errors.
 
 ## Education
 ### University of Nottingham – Integrated Masters in Mathematics and Statistics (First Class)
@@ -22,7 +22,11 @@ September 2015 - July 2019
 
 ## Personal Projects
 * To automate my job search I wrote a python wrapper for the API of a popular job site which I integrated into a command line interface for my own use.
-* I wrote a blog post about applying cluster analysis to job description text using term-frequency inverse-document-frequency and principle component analysis. 
+* Using data from the wrapper I wrote a blog post presenting an application of cluster analysis to job description text data; by applying principle component
+analysis to TF-IDF features from each job description, the jobs could be plotted and were shown to cleanly separate into three meaningful clusters.
+
+the clusters were produced from
+TF-IDF features from each job description. To plot the clusters in two dimensions I first applied PCA to the text features.
 
 ## Skills
 * Python (Pandas, NumPy, Scikit-learn, Flask, boto3)
