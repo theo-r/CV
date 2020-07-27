@@ -22,11 +22,8 @@ September 2015 - July 2019
 
 ## Personal Projects
 * To automate my job search I wrote a python wrapper for the API of a popular job site which I integrated into a command line interface for my own use.
-* Using data from the wrapper I wrote a blog post presenting an application of cluster analysis to job description text data; by applying principle component
+* Using data from the API I wrote a blog post presenting an application of cluster analysis to job description text data; by applying principle component
 analysis to TF-IDF features from each job description, the jobs could be plotted and were shown to cleanly separate into three meaningful clusters.
-
-the clusters were produced from
-TF-IDF features from each job description. To plot the clusters in two dimensions I first applied PCA to the text features.
 
 ## Skills
 * Python (Pandas, NumPy, Scikit-learn, Flask, boto3)
